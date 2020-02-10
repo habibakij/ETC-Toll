@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Toll_Car</string>
+    <string name="title_activity_login_view">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="vehivle_number">EX.DHAKA METRO-DA-XX-XXXX</string>
+
+    <!-- invalid enter text -->
+    <string name="enter_name">Must enter name</string>
+    <string name="enter_mobile">Must enter mobile</string>
+    <string name="enter_acno">Must enter account no</string>
+    <string name="enter_password">Must enter password</string>
+    <string name="enter_rePassword">Must enter rePassword</string>
+
+    <string name="user_name_email">User name/ Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="already">already sign up? <font color='red'>log in</font></string>
+
+</resources>
